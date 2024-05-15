@@ -3,6 +3,7 @@ using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.IdentityModel.Tokens;
 using MyWebAPI.Data;
+using MyWebAPI.Services;
 using System.Text;
 
 namespace MyWebAPI
@@ -22,9 +23,12 @@ namespace MyWebAPI
             {
                 options.UseSqlServer(builder.Configuration.GetConnectionString("MyDB"));
             });
-            
-            builder.Services.AddEndpointsApiExplorer()
-                ;
+
+            builder.Services.AddEndpointsApiExplorer();
+
+            builder.Services.AddScoped<IHangHoaRepository, HangHoaRepository>();
+            builder.Services.AddScoped<ILoaiRepository, LoaiRepository>();
+
             builder.Services.AddAuthorization();
 
             var secretKey = builder.Configuration["AppSetting:SecretKey"];

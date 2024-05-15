@@ -58,11 +58,10 @@ namespace MyWebAPI.Controllers
                 var hanghoa = hangHoa.SingleOrDefault(hh => hh.MaHangHoa == Guid.Parse(id));
                 if (hangHoa == null)
                     return NotFound();
-                return Ok(hanghoa);
+               
                 hanghoa.TenHangHoa = hHEdit.TenHangHoa;
                 hanghoa.DonGia = hHEdit.DonGia;
-
-                return Ok();
+                return Ok(hanghoa);
             }
             catch (Exception ex)
             {

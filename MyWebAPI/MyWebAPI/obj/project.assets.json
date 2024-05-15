@@ -4249,11 +4249,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Code\\dotnet\\web-api\\MyWebAPI\\MyWebAPI\\MyWebAPI.csproj",
+      "projectUniqueName": "E:\\Code\\dotnet\\MyWebAPI\\web-api\\MyWebAPI\\MyWebAPI\\MyWebAPI.csproj",
       "projectName": "MyWebAPI",
-      "projectPath": "E:\\Code\\dotnet\\web-api\\MyWebAPI\\MyWebAPI\\MyWebAPI.csproj",
+      "projectPath": "E:\\Code\\dotnet\\MyWebAPI\\web-api\\MyWebAPI\\MyWebAPI\\MyWebAPI.csproj",
       "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
-      "outputPath": "E:\\Code\\dotnet\\web-api\\MyWebAPI\\MyWebAPI\\obj\\",
+      "outputPath": "E:\\Code\\dotnet\\MyWebAPI\\web-api\\MyWebAPI\\MyWebAPI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config",
