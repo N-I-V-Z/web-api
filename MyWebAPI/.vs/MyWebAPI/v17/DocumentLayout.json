@@ -3,16 +3,20 @@
   "WorkspaceRootPath": "E:\\Code\\dotnet\\MyWebAPI\\web-api\\MyWebAPI\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{9B51711D-F124-4261-93F0-30578E4DFFB5}|MyWebAPI\\MyWebAPI.csproj|e:\\code\\dotnet\\mywebapi\\web-api\\mywebapi\\mywebapi\\migrations\\mydbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B51711D-F124-4261-93F0-30578E4DFFB5}|MyWebAPI\\MyWebAPI.csproj|solutionrelative:mywebapi\\migrations\\mydbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B51711D-F124-4261-93F0-30578E4DFFB5}|MyWebAPI\\MyWebAPI.csproj|e:\\code\\dotnet\\mywebapi\\web-api\\mywebapi\\mywebapi\\data\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B51711D-F124-4261-93F0-30578E4DFFB5}|MyWebAPI\\MyWebAPI.csproj|solutionrelative:mywebapi\\data\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{9B51711D-F124-4261-93F0-30578E4DFFB5}|MyWebAPI\\MyWebAPI.csproj|e:\\code\\dotnet\\mywebapi\\web-api\\mywebapi\\mywebapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{9B51711D-F124-4261-93F0-30578E4DFFB5}|MyWebAPI\\MyWebAPI.csproj|solutionrelative:mywebapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9B51711D-F124-4261-93F0-30578E4DFFB5}|MyWebAPI\\MyWebAPI.csproj|e:\\code\\dotnet\\mywebapi\\web-api\\mywebapi\\mywebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9B51711D-F124-4261-93F0-30578E4DFFB5}|MyWebAPI\\MyWebAPI.csproj|solutionrelative:mywebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9B51711D-F124-4261-93F0-30578E4DFFB5}|MyWebAPI\\MyWebAPI.csproj|e:\\code\\dotnet\\mywebapi\\web-api\\mywebapi\\mywebapi\\data\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9B51711D-F124-4261-93F0-30578E4DFFB5}|MyWebAPI\\MyWebAPI.csproj|solutionrelative:mywebapi\\data\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9B51711D-F124-4261-93F0-30578E4DFFB5}|MyWebAPI\\MyWebAPI.csproj|e:\\code\\dotnet\\mywebapi\\web-api\\mywebapi\\mywebapi\\data\\nguoidung.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -31,6 +35,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "MyDbContextModelSnapshot.cs",
+              "DocumentMoniker": "E:\\Code\\dotnet\\MyWebAPI\\web-api\\MyWebAPI\\MyWebAPI\\Migrations\\MyDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "MyWebAPI\\Migrations\\MyDbContextModelSnapshot.cs",
+              "ToolTip": "E:\\Code\\dotnet\\MyWebAPI\\web-api\\MyWebAPI\\MyWebAPI\\Migrations\\MyDbContextModelSnapshot.cs",
+              "RelativeToolTip": "MyWebAPI\\Migrations\\MyDbContextModelSnapshot.cs",
+              "ViewState": "AQIAAEwAAAAAAAAAAAAAwFYAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T15:14:27.63Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "appsettings.json",
               "DocumentMoniker": "E:\\Code\\dotnet\\MyWebAPI\\web-api\\MyWebAPI\\MyWebAPI\\appsettings.json",
               "RelativeDocumentMoniker": "MyWebAPI\\appsettings.json",
@@ -43,20 +60,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "MyDbContext.cs",
               "DocumentMoniker": "E:\\Code\\dotnet\\MyWebAPI\\web-api\\MyWebAPI\\MyWebAPI\\Data\\MyDbContext.cs",
               "RelativeDocumentMoniker": "MyWebAPI\\Data\\MyDbContext.cs",
               "ToolTip": "E:\\Code\\dotnet\\MyWebAPI\\web-api\\MyWebAPI\\MyWebAPI\\Data\\MyDbContext.cs",
               "RelativeToolTip": "MyWebAPI\\Data\\MyDbContext.cs",
-              "ViewState": "AQIAACQAAAAAAAAAAAAkwCwAAAAvAAAA",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAgwCwAAAAvAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-16T12:49:27.057Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "NguoiDung.cs",
               "DocumentMoniker": "E:\\Code\\dotnet\\MyWebAPI\\web-api\\MyWebAPI\\MyWebAPI\\Data\\NguoiDung.cs",
               "RelativeDocumentMoniker": "MyWebAPI\\Data\\NguoiDung.cs",
@@ -64,12 +81,11 @@
               "RelativeToolTip": "MyWebAPI\\Data\\NguoiDung.cs",
               "ViewState": "AQIAAAYAAAAAAAAAAAAAAA8AAAAqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-16T12:47:01.814Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-16T12:47:01.814Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\Code\\dotnet\\MyWebAPI\\web-api\\MyWebAPI\\MyWebAPI\\Program.cs",
               "RelativeDocumentMoniker": "MyWebAPI\\Program.cs",
@@ -77,8 +93,7 @@
               "RelativeToolTip": "MyWebAPI\\Program.cs",
               "ViewState": "AQIAACoAAAAAAAAAAAAQwB0AAAA2AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-15T07:06:30.655Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-15T07:06:30.655Z"
             }
           ]
         }
