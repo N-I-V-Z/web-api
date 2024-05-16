@@ -17,11 +17,11 @@ namespace MyWebAPI.Controllers
         }
 
         [HttpGet]
-        public IActionResult GetAllProduct(string search, double? from, double? to, string sortBy) 
+        public IActionResult GetAllProduct(string? search, double? from, double? to, string? sortBy, int page = 1) 
         {
             try
             {
-                var result = _hangHoaRepository.GetAll(search, from, to, sortBy);
+                var result = _hangHoaRepository.GetAll(search, from, to, sortBy, page);
                 return Ok(result);
             }
             catch (Exception ex)
